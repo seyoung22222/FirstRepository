@@ -3,8 +3,8 @@ package git;
 public class NewFile {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
+		System.out.println("두번째 파일");
+		System.out.println("두번째 작업 끝");
 	}
-
 }
